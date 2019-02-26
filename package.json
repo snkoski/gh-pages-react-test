@@ -2,8 +2,9 @@
   "name": "gh-pages-react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shawnkoski.com/gh-pages-react-test/",
+  "homepage": "http://shawnkoski.com/react/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
