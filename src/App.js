@@ -20,6 +20,7 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <h1> HELLO </h1>
       </div>
     );
   }
